@@ -1,17 +1,13 @@
+![Profile](./Ullas.gif)
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
 
-I am Ullas!
+<p align="center">
+  I am Ullas!
+</p>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ullaskunder3)](https://github.com/ullaskunder3) [![GitHub followers](https://img.shields.io/github/followers/ullaskunder3.svg?style=social&label=Follow)](https://github.com/ullaskunder3?tab=followers)
+ [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ullaskunder3)](https://github.com/ullaskunder3) [![GitHub followers](https://img.shields.io/github/followers/ullaskunder3.svg?style=social&label=Follow)](https://github.com/ullaskunder3?tab=followers)
 
 _Currently:_ IT student from India.
-
-## 💻 I'm Currently Learning
-
-__Web__
-
-- React
-- Ai implementation
 
 ## 🐦 Github Statistics
 
