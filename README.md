@@ -29,7 +29,7 @@ _Currently:_ IT student from India.
 ...
 
 ## 🐦 Github Statistics
-<div>
+<div align="center">
     <p>
         <a href="">
             <img src="https://github-readme-stats.vercel.app/api?username=ullaskunder3&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
@@ -39,5 +39,7 @@ _Currently:_ IT student from India.
         </a>
     </p>
 </div>
+
+
 
  <a href="mailto:ullaskunder3@gmail.com">![ullaskunder3@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
