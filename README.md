@@ -37,8 +37,6 @@ _Currently:_ IT student from India.
         <a href="">
             <img src="https://github-readme-stats.vercel.app/api?username=ullaskunder3&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
         </a>
-<!--       <img src = "https://user-images.githubusercontent.com/66258652/133882937-f9cb146b-136d-412e-b1f2-b960dc54985d.gif" width="60" height="60"/> -->
-      <img src ="https://media0.giphy.com/media/hJLovqb0CqFmy7hWKM/giphy.gif?cid=790b7611c52b4b8dbca733084d2a5c954cbb4c1f04efe7d0&rid=giphy.gif&ct=s/>"
         <a href="">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ullaskunder3&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
         </a>
