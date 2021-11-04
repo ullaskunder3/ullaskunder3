@@ -13,9 +13,6 @@
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ullas-i/)
  [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ullaskunder3)
  [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ullas.coder/)
- 
- 
- <a href="https://stackoverflow.com/users/15107749/ullas-kunder"><img src="https://stackoverflow.com/users/flair/15107749.png" width="208" height="58" alt="profile for ullas kunder at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for ullas kunder at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 _Currently:_ IT student from India.
 
@@ -43,6 +40,6 @@ _Currently:_ IT student from India.
     </p>
 </div>
 
-
+ <a href="https://stackoverflow.com/users/15107749/ullas-kunder"><img src="https://stackoverflow.com/users/flair/15107749.png" width="208" height="58" alt="profile for ullas kunder at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for ullas kunder at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
  <a href="mailto:ullaskunder3@gmail.com">![ullaskunder3@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
