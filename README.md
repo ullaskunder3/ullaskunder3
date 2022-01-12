@@ -3,10 +3,12 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
 
 <p align="center">
-  I am Ullas!
-  <p align="center">I'm a learner 🐱‍👤, Love solving practical problem, <br>Always bet on Vanilla JS, VS Code.... focused | Development | DSA | Py && C++</p>
+        <h2 > I am Ullas! </h2>
+  <p>
+    I'm a learner 🐱‍👤, love solving practical problem, <br> Always bet on Vanilla JS, VS Coder... <br> always there for help... <strong>Open Source Enthusiast</strong> <br> Self-Taught focused | Development | DSA | JS && Py && C++
 </p>
-<img align="" src = "https://user-images.githubusercontent.com/66258652/133882911-1c2e5b1f-01b3-438f-83cb-7256e912f655.gif" width="60" height="60"/>
+  _Currently:_ IT student from India.
+</p>
 
  [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ullaskunder3)](https://github.com/ullaskunder3) [![GitHub followers](https://img.shields.io/github/followers/ullaskunder3.svg?style=social&label=Follow)](https://github.com/ullaskunder3?tab=followers)
  
@@ -14,7 +16,7 @@
  [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ullaskunder3)
  [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/a.swartzs/)
 
-_Currently:_ IT student from India.
+<img align="" src = "https://user-images.githubusercontent.com/66258652/133882911-1c2e5b1f-01b3-438f-83cb-7256e912f655.gif" width="60" height="60"/>
 
 ## 📌 Pinned Repositories
 
