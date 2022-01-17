@@ -68,9 +68,8 @@
   
 ## 📈 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=ullaskunder3&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff)
-
-![stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=ullaskunder3&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8)
+| ![stats](https://github-readme-stats.vercel.app/api?username=ullaskunder3&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34) | ![stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=ullaskunder3&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34) |
+|:---:|:---:|
 
 <a href="https://stackoverflow.com/users/15107749/ullas-kunder"><img src="https://stackoverflow.com/users/flair/15107749.png" width="208" height="58" alt="profile for ullas kunder at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for ullas kunder at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
