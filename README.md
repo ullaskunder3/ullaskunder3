@@ -2,15 +2,23 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ullaskunder3)](https://github.com/ullaskunder3) 
+[![GitHub followers](https://img.shields.io/github/followers/ullaskunder3.svg?style=social&label=Follow)](https://github.com/ullaskunder3?tab=followers)
+
 <p align="center">
         <h2 > I am Ullas! </h2>
   <p>
     I'm a learner 🐱‍👤, love solving practical problem, <br> Always bet on Vanilla JS, VS Coder... <br> always there for help... <strong>Open Source Enthusiast</strong> <br> Self-Taught focused | Development | DSA | JS && Py && C++
 </p>
-  _Currently:_ IT student from India.
 </p>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ullaskunder3)](https://github.com/ullaskunder3) [![GitHub followers](https://img.shields.io/github/followers/ullaskunder3.svg?style=social&label=Follow)](https://github.com/ullaskunder3?tab=followers)
+my own published npm package [tweety-create](https://www.npmjs.com/package/tweety-create)
+
+![package](https://img.shields.io/npm/v/tweety-create?color=green&logo=npm)
+![downloads](https://img.shields.io/npm/dm/tweety-create)
+![vulnerabilities](https://img.shields.io/snyk/vulnerabilities/npm/tweety-create)
+![sourcerank](https://img.shields.io/librariesio/sourcerank/npm/tweety-create?color=green&logo=npm)
+![size](https://img.shields.io/bundlephobia/min/tweety-create)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ullas-i/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ullaskunder3)
