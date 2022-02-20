@@ -9,7 +9,7 @@
 </p>
 </p>
 
-my own published npm package [tweety-create](https://www.npmjs.com/package/tweety-create) (currently not working for mac)
+my own published npm package [tweety-create](https://www.npmjs.com/package/tweety-create)
 
 ![package](https://img.shields.io/npm/v/tweety-create?color=green&logo=npm)
 ![downloads](https://img.shields.io/npm/dm/tweety-create)
