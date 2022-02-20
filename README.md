@@ -1,9 +1,9 @@
+Hey there, Thanks for visiting my profile... <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 ![Profile](./Ullas.gif)
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
 <p align="center">
-        <h2 > I am Ullas! </h2>
+        <h2 > Myself Ullas! </h2>
   <p>
     I'm a learner 🐱‍👤, love solving practical problem, <br> Always bet on Vanilla JS, VS Coder... <br> always there for help... <strong>Open Source Enthusiast</strong> <br> Self-Taught focused | Development | DSA | JS && Py && C++
 </p>
@@ -76,6 +76,7 @@ my own published npm package [tweety-create](https://www.npmjs.com/package/tweet
 ## 📈 GitHub Stats
 
 ![stats](https://github-readme-stats.vercel.app/api?username=ullaskunder3&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34) 
+
 ![stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=ullaskunder3&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)
 
 <a href="https://stackoverflow.com/users/15107749/ullas-kunder"><img src="https://stackoverflow.com/users/flair/15107749.png" width="208" height="58" alt="profile for ullas kunder at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for ullas kunder at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
