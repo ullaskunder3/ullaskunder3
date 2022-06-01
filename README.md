@@ -1,4 +1,5 @@
-Hey there, Thanks for visiting my profile... <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+Hey there, Thanks for visiting my profile... 
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 ![Profile](./Ullas.gif)
 
