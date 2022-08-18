@@ -26,7 +26,7 @@ my own published npm package [tweety-create](https://www.npmjs.com/package/tweet
 
 My developer portfolio <a href="https://ullaskunder.tech/" title="ullaskunder.tech"> ullaskunder.tech </a> 🚀🐼
 
-### working webapp called ngenDevHub (next generation developer hub) [Live site](https://ndevhub.vercel.app/)
+working webapp called <a href="https://ndevhub.vercel.app/" title="ndevhub"> ngenDevHub </a>
 
 <img align="" src = "https://user-images.githubusercontent.com/66258652/133882911-1c2e5b1f-01b3-438f-83cb-7256e912f655.gif" width="60" height="60"/>
 
