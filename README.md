@@ -12,6 +12,10 @@ Hey there, Thanks for visiting my profile...
 
 my own published npm package [tweety-create](https://www.npmjs.com/package/tweety-create)
 
+My developer portfolio <a href="https://ullaskunder.tech/" title="ullaskunder.tech"> ullaskunder.tech </a> 🚀🐼
+
+working webapp called <a href="https://ndevhub.vercel.app/" title="ndevhub"> ngenDevHub </a>
+
 ![package](https://img.shields.io/npm/v/tweety-create?color=green&logo=npm)
 ![downloads](https://img.shields.io/npm/dm/tweety-create)
 ![vulnerabilities](https://img.shields.io/snyk/vulnerabilities/npm/tweety-create)
@@ -23,10 +27,6 @@ my own published npm package [tweety-create](https://www.npmjs.com/package/tweet
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/a.swartzs/)
 
 <a href="mailto:ullaskunder3@gmail.com">![ullaskunder3@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-
-My developer portfolio <a href="https://ullaskunder.tech/" title="ullaskunder.tech"> ullaskunder.tech </a> 🚀🐼
-
-working webapp called <a href="https://ndevhub.vercel.app/" title="ndevhub"> ngenDevHub </a>
 
 <img align="" src = "https://user-images.githubusercontent.com/66258652/133882911-1c2e5b1f-01b3-438f-83cb-7256e912f655.gif" width="60" height="60"/>
 
