@@ -58,30 +58,6 @@ working webapp called <a href="https://ndevhub.vercel.app/" title="ndevhub"> nge
 ![ReactJs](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 
-## 📌 Pinned Repositories
-
-<br>
-
-<a href="https://github.com/ullaskunder3/DevHub">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ullaskunder3&repo=DevHub&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/ullaskunder3/Solution-to-graphics.h">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ullaskunder3&repo=Solution-to-graphics.h&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/ullaskunder3/mnx-blog">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ullaskunder3&repo=mnx-blog&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/ullaskunder3/mastering-js">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ullaskunder3&repo=mastering-js&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/ullaskunder3/tweety-create">
-    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ullaskunder3&repo=tweety-create&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-  
 ## 📈 GitHub Stats
 
 ![stats](https://github-readme-stats.vercel.app/api?username=ullaskunder3&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34) 
