@@ -1,32 +1,18 @@
 Hey there, Thanks for visiting my profile... 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-![Profile](./Ullas.gif)
+![Hello](https://user-images.githubusercontent.com/66258652/233707215-93453df7-26cf-4795-b4d9-65f7cfd88381.png)
 
-<p align="center">
-        <h2 > Myself Ullas! </h2>
-  <p>
-    I'm a learner 🐱‍👤, love solving practical problem, <br> Always bet on Vanilla JS, VS Coder... <br> always there for help... <strong>Open Source Enthusiast</strong> <br> Self-Taught focused | Development | DSA | JS && Py && C++
-</p>
-</p>
+Hey there, I'm Ullas - a curious, self-taught software engineer 🐱‍💻 based in India. If you need help, I'm always there for you! I'm also an Open Source Enthusiast and my first npm published package is tweety-create 🐦.
+When I'm not coding, you can find me writing blogs, watching anime, or trying to learn Japanese 🎌.
+My mantra in life is - "水に流す (mizu ni nagasu) “The water flows.”"
 
-my own published npm package [tweety-create](https://www.npmjs.com/package/tweety-create)
+| "My ultimate dream is to code in the land of the rising sun 🌅, Japan! 🇯🇵 Let's see where my coding journey takes me next! 🚀"
 
-My developer portfolio <a href="https://ullaskunder.tech/" title="ullaskunder.tech"> ullaskunder.tech </a> 🚀🐼
-
-working webapp called <a href="https://ndevhub.vercel.app/" title="ndevhub"> ngenDevHub </a>
-
-![package](https://img.shields.io/npm/v/tweety-create?color=green&logo=npm)
-![downloads](https://img.shields.io/npm/dm/tweety-create)
-![vulnerabilities](https://img.shields.io/snyk/vulnerabilities/npm/tweety-create)
-![sourcerank](https://img.shields.io/librariesio/sourcerank/npm/tweety-create?color=green&logo=npm)
-![size](https://img.shields.io/bundlephobia/min/tweety-create)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ullas-i/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ullaskunder3)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/a.swartzs/)
-
-<a href="mailto:ullaskunder3@gmail.com">![ullaskunder3@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/yugen.da/)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:ullaskunder3@gmail.com)
 
 <img align="" src = "https://user-images.githubusercontent.com/66258652/133882911-1c2e5b1f-01b3-438f-83cb-7256e912f655.gif" width="60" height="60"/>
 
