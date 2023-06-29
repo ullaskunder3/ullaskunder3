@@ -10,7 +10,7 @@ My mantra in life is - "水に流す (mizu ni nagasu) “The water flows.”"
 | "My ultimate dream is to code in the land of the rising sun 🌅, Japan! 🇯🇵 Let's see where my coding journey takes me next! 🚀"
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ullas-i/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ullaskunder/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/yugen.da/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:ullaskunder3@gmail.com)
 
