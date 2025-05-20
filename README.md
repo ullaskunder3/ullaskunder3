@@ -3,29 +3,26 @@ Hey there, Thanks for visiting my profile...
 
 ![Hello](https://user-images.githubusercontent.com/66258652/233707215-93453df7-26cf-4795-b4d9-65f7cfd88381.png)
 
-Hello! I'm Ullas, a **self-taught software engineer** based in India. I am passionate about **open source** and enjoy developing interesting projects. 
-
-The trend of self-taught developers is growing in India, with many individuals successfully learning coding through online resources and practical experience. This flexible approach allows me to focus on areas of interest and continuously enhance my skills.
+Hello! I'm Ullas, a software engineer based in India with a strong passion for open source and building meaningful projects. I’ve honed my skills through hands-on experience and a deep commitment to continuous learning.
 
 ### Interests
 When I'm not coding, you can find me:
 - Writing blogs
 - Watching anime
 - Learning Japanese 🎌
+- Figuring out how to make things work — whether it’s tech, tools, or tiny ideas
 
 ### Philosophy
-My life mantra is **“水に流す (mizu ni nagasu)”**, meaning "The water flows." This reflects my belief in adaptability and resilience.
+My life mantra is “流れに身を任せる (nagare ni mi wo makaseru)”, meaning “go with the flow.” It reflects my belief in accepting things as they come, adapting without resistance, and moving forward with resilience and intent.
 
 ### Dream
 My ultimate dream is to code in **Japan 🇯🇵**, the land of the rising sun! 🌅 I look forward to where my coding journey takes me next! 🚀
 
-Feel free to connect with me on GitHub and explore my projects!
+Feel free to connect with me on GitHub or portfolio: [ullaskunder/contact](https://ullaskunder.tech/contact) and explore my projects!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ullaskunder/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/z_haruu/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:ullaskunder3@gmail.com)
-
-<img align="" src = "https://user-images.githubusercontent.com/66258652/133882911-1c2e5b1f-01b3-438f-83cb-7256e912f655.gif" width="60" height="60"/>
 
 ## 🔧 Technologies & Tools
 
