@@ -1,63 +1,56 @@
-![Profile Views](https://komarev.com/ghpvc/?username=ullaskunder3)
+![Profile Views](https://komarev.com/ghpvc/?username=vishmanaik)
 
-Hey there, Thanks for visiting my profile... 
+Hey there, thanks for stopping by!  
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-![Hello](https://user-images.githubusercontent.com/66258652/233707215-93453df7-26cf-4795-b4d9-65f7cfd88381.png)
+I'm **Vishma Naik**, a student from India who loves exploring the world of software and open-source. I'm constantly learning and building cool little projects that help me understand how things work under the hood.
 
-Hello! Vishma Naik, a software engineer based in India with a strong passion for open source and building meaningful projects. I’ve honed my skills through hands-on experience and a deep commitment to continuous learning.
+---
 
-### Interests
-When I'm not coding, you can find me:
-- Writing blogs
-- Watching anime
-- Learning Japanese 🎌
-- Figuring out how to make things work — whether it’s tech, tools, or tiny ideas
+### 🌱 Currently Learning
+- C/C++
+- Git & GitHub
+- Markdown & Docs
+- HTML, CSS, and JavaScript Basics
+- Making my first contributions to Open Source!
 
-### Philosophy
-My life mantra is “流れに身を任せる (nagare ni mi wo makaseru)”, meaning “go with the flow.” It reflects my belief in accepting things as they come, adapting without resistance, and moving forward with resilience and intent.
+### 💡 Interests
+- Exploring tech, tools, and random side projects
 
-### Dream
-My ultimate dream is to code in **Japan 🇯🇵**, the land of the rising sun! 🌅 I look forward to where my coding journey takes me next! 🚀
+### 💭 Life Motto
+> “流れに身を任せる (Nagare ni mi wo makaseru)” – Go with the flow.  
+This reminds me to keep moving forward, adapt, and grow at my own pace 🌱
 
-Feel free to connect with me on GitHub or portfolio: [ullaskunder/contact](https://ullaskunder.tech/contact) and explore my projects!
+### 🌏 Dream
+awesome dev
+
+---
+
+Feel free to check out my GitHub projects or say hi on LinkedIn!  
+I’m just getting started, and there’s so much more to come 🚀
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ullaskunder/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/z_haruu/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:ullaskunder3@gmail.com)
 
-## 🔧 Technologies & Tools
+---
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+## 🛠️ Technologies I’m Exploring
+
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![postgreSQL](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)&nbsp;
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![CodePen](https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white)
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white)
-![p5js](https://img.shields.io/badge/p5.js-ED225D?style=flat&logo=p5.js&logoColor=FFFFFF)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-![ReactJs](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=ullaskunder3&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34) 
+> Stats will grow as I learn and build more!
 
-![stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=ullaskunder3&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)
+![stats](https://github-readme-stats.vercel.app/api?username=vishmanaik&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)
 
-<a href="https://stackoverflow.com/users/15107749/ullas-kunder"><img src="https://stackoverflow.com/users/flair/15107749.png" width="208" height="58" alt="profile for ullas kunder at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for ullas kunder at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+![stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=vishmanaik&show_icons=true&layout=compact&title_color=ffffff&text_color=c9cacc&bg_color=1A2B34)
