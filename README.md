@@ -23,7 +23,7 @@ My ultimate dream is to code in **Japan 🇯🇵**, the land of the rising sun! 
 Feel free to connect with me on GitHub or portfolio: [ullaskunder/contact](https://ullaskunder.tech/contact) and explore my projects!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ullaskunder/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/z_haruu/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/akarii.haru/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:ullaskunder3@gmail.com)
 
 ## 🔧 Technologies & Tools
