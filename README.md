@@ -5,12 +5,37 @@ Hey there, Thanks for visiting my profile...
 
 Hello! I'm <a href="https://ullaskunder.tech" title="Visit Ullas Kunder's Portfolio">Ullas</a>, a software engineer based in India with a strong passion for open source and building meaningful projects. I’ve honed my skills through hands-on experience and a deep commitment to continuous learning.
 
+
+
 ### Interests
+
 When I'm not coding, you can find me:
-- Writing blogs
-- Watching anime
-- Learning Japanese 🎌
-- Figuring out how to make things work — whether it’s tech, tools, or tiny ideas
+
+* Writing blogs ✍️
+* Watching anime 🎬
+* Learning Japanese 🎌
+* Figuring out how to make things work — whether it’s tech, tools, or tiny ideas 🤔
+
+---
+
+**Portfolio:** [https://ullaskunder.tech/](https://ullaskunder.tech/)
+**Blog:** [https://ullaskunder.tech/blogs](https://ullaskunder.tech/blogs)
+
+#### Chinese Anime I'm Following:
+
+* **Wanmei Shijie (Perfect World)**
+* **Shrouding the Heavens** / **Zhe Tian** / 遮天
+* **Renegade Immortal (Xian Ni)** / 仙逆
+* **Battle Through The Heavens - 5th Season** / 斗破苍穹年番
+* **A Mortal's Journey to Immortality - Season 2** / 凡人修仙传 年番 第二部 
+...
+
+#### Japanese Anime I'm Following:
+
+* **Gachiakuta**
+* **One Piece**
+* **Kaiju No. 8 - Season 2**
+...
 
 ### Philosophy
 My life mantra is “流れに身を任せる (nagare ni mi wo makaseru)”, meaning “go with the flow.” It reflects my belief in accepting things as they come, adapting without resistance, and moving forward with resilience and intent.
@@ -46,6 +71,9 @@ Feel free to connect with me on GitHub or portfolio: [ullaskunder/contact](https
 ![p5js](https://img.shields.io/badge/p5.js-ED225D?style=flat&logo=p5.js&logoColor=FFFFFF)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-%23000000.svg?style=flat\&logo=graphql\&logoColor=E10098)
+![Python](https://img.shields.io/badge/Python-%23000000.svg?style=flat\&logo=python\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23000000.svg?style=flat\&logo=fastapi\&logoColor=white)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
