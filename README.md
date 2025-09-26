@@ -1,7 +1,7 @@
 Hey there, Thanks for visiting my profile... 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-![Hello](https://user-images.githubusercontent.com/66258652/233707215-93453df7-26cf-4795-b4d9-65f7cfd88381.png)
+![Hello](https://github.com/user-attachments/assets/b016cd69-92a3-4515-967a-3f448b0ebf57)
 
 Hello! I'm <a href="https://ullaskunder.tech" title="Visit Ullas Kunder's Portfolio">Ullas</a>, a software engineer based in India with a strong passion for open source and building meaningful projects. I’ve honed my skills through hands-on experience and a deep commitment to continuous learning.
 
