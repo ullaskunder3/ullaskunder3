@@ -5,15 +5,13 @@ Hey there, Thanks for visiting my profile...
 
 Hello! I'm <a href="https://ullaskunder.tech" title="Visit Ullas Kunder's Portfolio">Ullas</a>, a software engineer based in India with a strong passion for open source and building meaningful projects. I’ve honed my skills through hands-on experience and a deep commitment to continuous learning.
 
-
-
 ### Interests
 
 When I'm not coding, you can find me:
 
 * Writing blogs ✍️
 * Watching anime 🎬
-* Learning Japanese 🎌
+* Learning Japanese (well I'm trying)
 * Figuring out how to make things work — whether it’s tech, tools, or tiny ideas 🤔
 
 ---
