@@ -27,7 +27,8 @@ When I'm not coding, you can find me:
 * **Battle Through The Heavens - 5th Season** / 斗破苍穹年番
 * **Tales of herding gods** /  牧神记
 * **A Mortal's Journey to Immortality - Season 2** / 凡人修仙传 年番 第二部 
-* **Soul Land** / 斗罗大陆2绝世唐门 
+* **Soul Land** / 斗罗大陆2绝世唐门
+* **Martial Universe Season**
 ...
 
 #### Japanese Anime I'm Following:
