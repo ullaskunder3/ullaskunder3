@@ -24,9 +24,9 @@ When I'm not coding, you can find me:
 * **Wanmei Shijie (Perfect World)**
 * **Shrouding the Heavens** / **Zhe Tian** / 遮天
 * **Renegade Immortal (Xian Ni)** / 仙逆
-* **Battle Through The Heavens - 5th Season** / 斗破苍穹年番
+* **Battle Through The Heavens** / 斗破苍穹年番
 * **Tales of herding gods** /  牧神记
-* **A Mortal's Journey to Immortality - Season 2** / 凡人修仙传 年番 第二部 
+* **A Mortal's Journey to Immortality** / 凡人修仙传 年番 第二部 
 * **Soul Land** / 斗罗大陆2绝世唐门
 * **Martial Universe Season**
 ...
@@ -35,7 +35,7 @@ When I'm not coding, you can find me:
 
 * **Gachiakuta**
 * **One Piece**
-* **Kaiju No. 8 - Season 2**
+* **Kaiju No. 8**
 ...
 
 ### Philosophy
