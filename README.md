@@ -3,12 +3,12 @@ Hey there, Thanks for visiting my profile...
 
 ![Hello](https://github.com/user-attachments/assets/756f6f13-5ea8-46d2-8ca1-6d3632b01db1)
 
-I'm <a href="https://ullaskunder.tech" title="Visit Ullas Kunder's Portfolio">Ullas</a> — a software engineer from India who takes things from zero to working.<br>
+I'm <a href="https://ullaskunder.com" title="Visit Ullas Kunder's Portfolio">Ullas</a> — a software engineer from India who takes things from zero to working.<br>
 I don't just write code. I figure out the whole problem and see it through — design, infra, whatever it needs.
 
-Building: [iprofile.dev](https://www.iprofile.dev/)<br>
-**Portfolio:** [https://ullaskunder.tech/](https://ullaskunder.tech/)<br>
-**Blog:** [https://ullaskunder.tech/blogs](https://ullaskunder.tech/blogs)
+Building: [xforbes.com](xforbes.com)<br>
+**Portfolio:** [https://ullaskunder.com/](https://ullaskunder.com/)<br>
+**Blog:** [https://ullaskunder.com/blogs](https://ullaskunder.com/blogs)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ullaskunder/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/odaa.haru/)
@@ -23,8 +23,8 @@ Small, fast, useful software — for students and developers.
 | Project | What it is |
 |---|---|
 | [Darvin](https://github.com/ullaskunder3/darvin/releases/tag/v0.1.1-beta) | Plug-and-play IDE for students — SDL GUI, zero setup |
-| [iprofile.dev](https://iprofile.dev) | A collection of focused dev tools (SwidoMark, Turai Blog...) |
-| [PhysDaily](https://iprofile.dev/physdaily) | Daily physics challenge app — keep problem-solving sharp in the age of AI |
+| [xforbes.com](xforbes.com) | A collection of focused dev tools (SwidoMark, Turai Blog...) |
+| [PhysDaily](xforbes.com/physdaily) | Daily physics challenge app — keep problem-solving sharp in the age of AI |
 
 > I prefer building small, meaningful software over large, bloated platforms.
 
@@ -51,7 +51,7 @@ When I'm not coding, you can find me:
 
 I want to eventually work as an engineer in **Japan 🇯🇵** — somewhere that takes craft seriously. The language barrier doesn't scare me. I've picked up new stacks mid-project before. 🚀
 
-Feel free to connect: [ullaskunder/contact](https://ullaskunder.tech/contact)
+Feel free to connect: [ullaskunder/contact](https://ullaskunder.com/contact)
 
 ---
 
