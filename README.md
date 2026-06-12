@@ -12,7 +12,7 @@ I own the full problem: design, code, infrastructure, whatever it takes.
 [![Book a Call](https://img.shields.io/badge/Book_a_Call-cal.com-black?style=flat-square)](https://cal.com/ullaskunder)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail&logoColor=white)](mailto:ullaskunder3@gmail.com)
 
-![Hello](https://github.com/user-attachments/assets/756f6f13-5ea8-46d2-8ca1-6d3632b01db1)
+![Hello](https://github.com/user-attachments/assets/fcca315b-03f0-4d04-a092-a7b3d4c2f445)
 
 ## Engineering Approach
 
