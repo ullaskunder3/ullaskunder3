@@ -32,10 +32,10 @@ I choose based on scalability, clarity, and long-term sustainability.
 ```
 Web        →  React, Next.js, HTML/CSS, JavaScript, TypeScript
 Backend    →  Node.js, Express, FastAPI, GraphQL, Golang
-Mobile     →  Flutter, Dart, Firebase
+Mobile     →  Flutter, React Native, Firebase
 Databases  →  PostgreSQL, MongoDB, MariaDB
 Systems    →  C++, Qt, SDL, CMake, Python, Bash, Linux
-Design     →  Figma, Illustrator, Blender
+Design     →  Figma, Illustrator, Blender, Canva
 ```
 
 ---
@@ -46,7 +46,7 @@ Design     →  Figma, Illustrator, Blender
 |---|---|---|---|---|
 | 01 | [PhysDaily](https://xforbes.com/physdaily) | Gamified physics challenges — high-stakes, real-time problem sets | Flutter · Dart · Firebase | ✅ **Live on Google Play** |
 | 02 | [Darvin IDE](https://github.com/ullaskunder3/darvin/releases/tag/v0.1.1-beta) | Plug-and-play C++/Qt IDE — zero setup, just works, built for students | C++ · Qt · SDL3 · CMake | ✅ Live Release |
-| 03 | [xforbes.com](https://xforbes.com) | Suite of focused dev tools — SwidoMark, Turai Blog, and more | — | 🔨 Building |
+| 03 | [xforbes.com](https://xforbes.com) | Suite of focused dev tools — SwidoMark, Turai Blog, and more | Next.js · Tailwind | 🔨 Building |
 | 04 | [Pin-Tube](https://chromewebstore.google.com/detail/pin-tube/oehonkhbilmcmmpcnbpocpoomldofejd) | Chrome extension to pin YouTube videos and stop doomscrolling | Chrome Extension | ✅ Shipped |
 
 > Small, meaningful software. Not large, bloated platforms.
