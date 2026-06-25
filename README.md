@@ -56,9 +56,9 @@ Design     →  Figma, Illustrator, Blender, Canva
 ## ✍️ Recent Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Zero-Dependency, Event-Driven GitHub Profile Updater with Actions and Webhooks](https://ullaskunder.com/blogs/building-a-zero-dependency-event-driven-github-profile-updater-with-actions-and-webhooks) · *Jun 2026*
 - [Go Integer Types Explained: From Bits and Bytes to int64](https://ullaskunder.com/blogs/go-integer-types-explained-from-bits-and-bytes-to-int64) · *Jun 2026*
 - [Object-Oriented Go: Composition, Methods, and Interfaces](https://ullaskunder.com/blogs/object-oriented-go-composition-methods-and-interfaces) · *Jun 2026*
-- [Building a Zero-Dependency, In-Memory RAG for My Next.js Portfolio](https://ullaskunder.com/blogs/building-a-zero-dependency-in-memory-rag-for-my-next-js-portfolio) · *Jun 2026*
 <!-- BLOG-POST-LIST:END -->
 
 → [View all posts](https://ullaskunder.com/blogs)
