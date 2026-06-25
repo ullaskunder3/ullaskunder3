@@ -55,10 +55,8 @@ Design     →  Figma, Illustrator, Blender, Canva
 
 ## ✍️ Recent Writing
 
-<!-- Active blog — latest posts Jun 2026 -->
-- [Building a Zero-Dependency, In-Memory RAG for My Next.js Portfolio](https://ullaskunder.com/blogs/building-a-zero-dependency-in-memory-rag-for-my-next-js-portfolio) · *Jun 2026*
-- [Building Pin-Tube: Chrome Extension to Pin YouTube Videos](https://ullaskunder.com/blogs/building-pin-tube-how-i-created-a-chrome-extension-to-pin-youtube-videos-and-stop-doomscrolling) · *Jun 2026*
-- [Why I Moved My Domains to Cloudflare](https://ullaskunder.com/blogs/why-i-moved-my-domains-to-cloudflare-and-reconsidered-my-entire-setup) · *May 2026*
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 → [View all posts](https://ullaskunder.com/blogs)
 
