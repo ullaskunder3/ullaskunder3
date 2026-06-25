@@ -56,9 +56,9 @@ Design     →  Figma, Illustrator, Blender, Canva
 ## ✍️ Recent Writing
 
 <!-- BLOG-POST-LIST:START -->
-- [graphics.h template](https://ullaskunder.com/blogs/graphics-template) · *Apr 2021*
-- [What is markdown](https://ullaskunder.com/blogs/how-to-write-makdown) · *Apr 2021*
-- [Sort Visualization using p5.js](https://ullaskunder.com/blogs/sorting-p5-visualization) · *May 2021*
+- [Go Integer Types Explained: From Bits and Bytes to int64](https://ullaskunder.com/blogs/go-integer-types-explained-from-bits-and-bytes-to-int64) · *Jun 2026*
+- [Object-Oriented Go: Composition, Methods, and Interfaces](https://ullaskunder.com/blogs/object-oriented-go-composition-methods-and-interfaces) · *Jun 2026*
+- [Building a Zero-Dependency, In-Memory RAG for My Next.js Portfolio](https://ullaskunder.com/blogs/building-a-zero-dependency-in-memory-rag-for-my-next-js-portfolio) · *Jun 2026*
 <!-- BLOG-POST-LIST:END -->
 
 → [View all posts](https://ullaskunder.com/blogs)
