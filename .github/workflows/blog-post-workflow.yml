@@ -1,6 +1,7 @@
 name: Update Profile with Latest Blogs
 
 on:
+  workflow_dispatch:
   repository_dispatch:
     types: [blog_published]
 
