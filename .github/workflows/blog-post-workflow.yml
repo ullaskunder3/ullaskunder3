@@ -26,13 +26,24 @@ jobs:
           xml_data = urllib.request.urlopen(req).read()
           root = ET.fromstring(xml_data)
 
-          posts = []
-          for item in root.findall('./channel/item')[:3]:
+          all_posts = []
+          for item in root.findall('./channel/item'):
               title = item.find('title').text
               link = item.find('link').text
               pubDate = item.find('pubDate').text
               dt = datetime.strptime(pubDate, '%a, %d %b %Y %H:%M:%S %Z')
-              posts.append(f'- [{title}]({link}) · *{dt.strftime(\"%b %Y\")}*')
+              all_posts.append({'title': title, 'link': link, 'dt': dt})
+
+          # Sort posts by date, newest first
+          all_posts.sort(key=lambda x: x['dt'], reverse=True)
+
+          # Grab only the top 3 newest posts
+          posts = []
+          for post in all_posts[:3]:
+              t = post['title']
+              l = post['link']
+              d = post['dt'].strftime('%b %Y')
+              posts.append(f'- [{t}]({l}) · *{d}*')
 
           posts_str = '\n'.join(posts)
 
@@ -46,7 +57,6 @@ jobs:
           end_idx = readme.find(end_tag)
 
           if start_idx != -1 and end_idx != -1:
-              # Slice the string and inject the posts exactly between the tags
               new_readme = readme[:start_idx + len(start_tag)] + '\n' + posts_str + '\n' + readme[end_idx:]
               with open('README.md', 'w') as f:
                   f.write(new_readme)
