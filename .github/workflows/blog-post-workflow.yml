@@ -18,7 +18,7 @@ jobs:
       - name: Fetch RSS and Update README
         run: |
           python3 -c "
-          import urllib.request, xml.etree.ElementTree as ET, re
+          import urllib.request, xml.etree.ElementTree as ET
           from datetime import datetime
 
           url = 'https://www.ullaskunder.com/rss.xml'
@@ -39,11 +39,17 @@ jobs:
           with open('README.md', 'r') as f:
               readme = f.read()
 
-          pattern = r'(<!-- BLOG-POST-LIST:START -->\n).*?(\n<!-- BLOG-POST-LIST:END -->)'
-          new_readme = re.sub(pattern, rf'\g<1>{posts_str}\g<2>', readme, flags=re.DOTALL)
+          start_tag = '<!-- BLOG-POST-LIST:START -->'
+          end_tag = '<!-- BLOG-POST-LIST:END -->'
+          
+          start_idx = readme.find(start_tag)
+          end_idx = readme.find(end_tag)
 
-          with open('README.md', 'w') as f:
-              f.write(new_readme)
+          if start_idx != -1 and end_idx != -1:
+              # Slice the string and inject the posts exactly between the tags
+              new_readme = readme[:start_idx + len(start_tag)] + '\n' + posts_str + '\n' + readme[end_idx:]
+              with open('README.md', 'w') as f:
+                  f.write(new_readme)
           "
 
       - name: Commit and Push changes
