@@ -56,6 +56,9 @@ Design     →  Figma, Illustrator, Blender, Canva
 ## ✍️ Recent Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [graphics.h template](https://ullaskunder.com/blogs/graphics-template) · *Apr 2021*
+- [What is markdown](https://ullaskunder.com/blogs/how-to-write-makdown) · *Apr 2021*
+- [Sort Visualization using p5.js](https://ullaskunder.com/blogs/sorting-p5-visualization) · *May 2021*
 <!-- BLOG-POST-LIST:END -->
 
 → [View all posts](https://ullaskunder.com/blogs)
